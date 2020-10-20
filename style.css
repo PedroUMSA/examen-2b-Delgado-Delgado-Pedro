@@ -29,7 +29,6 @@ caption{
 .padre {
 
     height: 500px;
-    /*IMPORTANTE*/
     display: flex;
     justify-content: center;
     align-items: center;
