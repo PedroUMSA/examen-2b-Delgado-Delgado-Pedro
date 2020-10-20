@@ -1,0 +1,41 @@
+
+body{
+    background-color:#177534;
+    color: white;
+    font-size: 20px;
+}
+table{
+    border-color:black;
+    border-radius: 10px;
+    border-width: 5px;
+}
+table tr th{
+    background-color: '#177534';
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+table tr td{
+    background-color: black;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+caption{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    padding: 20px;
+    
+}
+.padre {
+
+    height: 500px;
+    /*IMPORTANTE*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .hijo {
+      
+    width: 725px;
+  }
